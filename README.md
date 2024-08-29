@@ -1,7 +1,7 @@
 # Hi there, I'm Jhavagne Dunn! 👋
 
 ## 🚀 About Me
-I'm a Full Stack Engineer with a passion for creating innovative solutions and continuously learning new technologies. I have a background in Computer Science and have worked at IBM, where I specialized in application development.
+I'm a Full Software Developer with a passion for creating innovative solutions and continuously learning new technologies. I have a background in Computer Science and have worked at IBM, where I specialized in application development.
 
 ## 🛠 Technical Skills
 - **Languages**: JavaScript, Java, C++, Python, PHP
@@ -24,7 +24,7 @@ I'm a Full Stack Engineer with a passion for creating innovative solutions and c
 - **GitHub**: [JhavagneDunn](https://github.com/jhavagned)
 
 ## 💼 Open to Opportunities
-I'm currently looking for fully remote Application Developer roles with a focus on innovation and growth.
+I'm currently looking for fully remote Software Developer roles with a focus on innovation and growth.
 
 
 <!---
